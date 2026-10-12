@@ -8,3 +8,5 @@ target/
 zz
 
 *.iml
+config.bat
+node_modules
